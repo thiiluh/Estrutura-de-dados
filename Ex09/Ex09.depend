@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488584285 source:c:\users\thiago luiz\documents\c++\ex09\main.cpp
+	<iostream>
+	<stdlib.h>
+
